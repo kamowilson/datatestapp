@@ -1,14 +1,17 @@
 ##PREREQUISITE
 - python3 
 - selenium
+- pip3
+- google chrome
+- chromedriver
 
 ##CREATE PROJECT DIRECTORY
 clone >https://github.com/kamowilson/datatestapp.git
 - cd datatestapp
 
 ##CREATE VIRTUAL ENVIRONMENT
-> python3 -m venv env
-> source env/bin/activate
+> python3 -m venv venv
+> source venv/bin/activate
 
 #On windows, use
 `env\Scripts\activate`
