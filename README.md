@@ -11,7 +11,9 @@ git clone >https://github.com/kamowilson/datatestapp.git
 
 ##CREATE VIRTUAL ENVIRONMENT
 > sudo apt-get install python3-venv
+
 > sudo pip3 install virtualenv
+
 > source venv/bin/activate
 
 #On windows, use
