@@ -7,7 +7,7 @@
 
 ##CREATE PROJECT DIRECTORY
 > git clone >https://github.com/kamowilson/datatestapp.git
-- cd datatestapp
+> cd datatestapp
 
 ##CREATE VIRTUAL ENVIRONMENT
 > sudo apt-get install python3-venv
