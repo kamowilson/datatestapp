@@ -7,6 +7,7 @@
 
 ##CREATE PROJECT DIRECTORY
 > git clone >https://github.com/kamowilson/datatestapp.git
+
 > cd datatestapp
 
 ##CREATE VIRTUAL ENVIRONMENT
