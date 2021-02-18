@@ -1,14 +1,21 @@
-##Instructions for set up
-*prerequisite*
-- python3 environment
-- install pip3
->sudo apt -get install python3-pip
-- install selenium
->sudo pip3 install selenium
+##PREREQUISITE
+- python3 
+- selenium
 
-###To run the application
+##CREATE PROJECT DIRECTORY
+clone >https://github.com/kamowilson/datatestapp.git
+
+- cd datatestapp
+##CREATE VIRTUAL ENVIRONMENT
+> python3 -m venv env
+> source env/bin/activate
+
+#On windows, use
+`env\Scripts\activate`
+
+###Install Requirements
 - open your terminal
-- locate project directory 
+- pip install -r requirements.txt
   
-##Run the following command
+##Run the project
 > python3 THC-Happyflow.py
