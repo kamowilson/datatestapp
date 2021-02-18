@@ -6,19 +6,19 @@
 - chromedriver
 
 ##CREATE PROJECT DIRECTORY
-clone >https://github.com/kamowilson/datatestapp.git
+git clone >https://github.com/kamowilson/datatestapp.git
 - cd datatestapp
 
 ##CREATE VIRTUAL ENVIRONMENT
-> python3 -m venv venv
+> sudo apt-get install python3-venv
+> sudo pip3 install virtualenv
 > source venv/bin/activate
 
 #On windows, use
 `env\Scripts\activate`
 
-###Install Requirements
-- open your terminal
-- pip install -r requirements.txt
+##Install Requirements
+- pip3 install -r requirements.txt
   
 ##Run the project
 > python3 THC-Happyflow.py
