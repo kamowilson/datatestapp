@@ -18,10 +18,10 @@
 > source venv/bin/activate
 
 #On windows, use
-`env\Scripts\activate`
+>`env\Scripts\activate`
 
 ##INSTALL REQUIREMENTS
-- pip3 install -r requirements.txt
+> pip3 install -r requirements.txt
   
 ##RUN THE PROJECT
 > python3 THC-Happyflow.py
