@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
 browser = webdriver.Chrome()
-browser.get("http://localhost:3000/")
+browser.get("https://thc-testapp.netlify.app/")
 
 # Step 1. Test for firstname scenario
 firstname_element = browser.find_element_by_name("firstName")
