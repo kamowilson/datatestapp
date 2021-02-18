@@ -6,7 +6,7 @@
 - chromedriver
 
 ##CREATE PROJECT DIRECTORY
-git clone >https://github.com/kamowilson/datatestapp.git
+> git clone >https://github.com/kamowilson/datatestapp.git
 - cd datatestapp
 
 ##CREATE VIRTUAL ENVIRONMENT
@@ -19,8 +19,8 @@ git clone >https://github.com/kamowilson/datatestapp.git
 #On windows, use
 `env\Scripts\activate`
 
-##Install Requirements
+##INSTALL REQUIREMENTS
 - pip3 install -r requirements.txt
   
-##Run the project
+##RUN THE PROJECT
 > python3 THC-Happyflow.py
